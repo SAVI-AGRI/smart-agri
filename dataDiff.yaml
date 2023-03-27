@@ -1,0 +1,7 @@
+train: /home/u185800/Weed_Detection5a431d7/assorted_data/images/train
+val: /home/u185800/Weed_Detection5a431d7/assorted_data/images/val
+test: /home/u185800/Weed_Detection5a431d7/assorted_data/images/test
+nc: 2
+names: ['crop',
+        'weed',       
+]
